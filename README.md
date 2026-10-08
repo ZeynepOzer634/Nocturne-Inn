@@ -6,7 +6,7 @@ A Vampire Tavern Managament Game with also room mechanic where npc's stay-inn, a
 
 ## Development & Version Control
 
-This project was developed using Unreal Engine 5, with Diversion as the primary version control system.
+This project was developed using by 2 developers using Unreal Engine 5, with Diversion as the primary version control system.
 
 
 Gameplay & Systems Development by me – Unreal Engine 5 Production Studio Project
